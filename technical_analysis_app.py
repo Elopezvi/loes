@@ -1,4 +1,6 @@
 # imports
+!pip install yfinance
+!pip install pip install cufflinks
 import yfinance as yf
 import streamlit as st
 import datetime 
